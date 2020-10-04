@@ -56,6 +56,7 @@ int main(int argc, char* argv[]) {
 		cout << "Argumentos insuficientes. Introduzca el nombre de la" << std::endl;
 		cout << "aplicacion y a continuacion la ruta del directorio a" << std::endl;
 		cout << "analizar." << std::endl;
+		return -1;
 	}
 
 	if (argc > 2) {
