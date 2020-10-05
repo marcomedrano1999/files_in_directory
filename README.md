@@ -44,7 +44,7 @@ Este programa crea un archivo Json que contiene los nombres y tamaños en bytes d
  {"name":"texto1.txt","size":450},
  {"name":"texto2.txt","size":950}]}  
 
-Si la ruta introducidad no existe o no es un directorio, el program retorna -1. 
+Si la ruta introducidad no existe o no es un directorio, el programa retorna -1. 
 
 
 ## Elaborado con
